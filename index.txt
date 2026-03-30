@@ -40,7 +40,7 @@
 
   <!-- ！！！請在此替換為你的 Google Apps Script 部署網址 ！！！ -->
   <iframe 
-    src="YOUR_GAS_WEB_APP_URL" 
+    src="https://script.google.com/macros/s/AKfycbz5d2tT6HOU2J9uSGzjYXsjrFC4FH5LGKkzGOwq_n_PLxWUGcWXYOH7rlaMfhpu1uVF/exec" 
     allow="camera; microphone; geolocation" 
     onload="hideSplash()">
   </iframe>
